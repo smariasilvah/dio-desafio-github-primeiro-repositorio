@@ -1,0 +1,13 @@
+"dir" Vai trazer uma lista de diretórios contidas na pasta sintuada ou seja dentro da pasta.
+
+"cd" Possibilita que navegue entre pastas.
+
+"Ctrl + L" Limpa o terminal
+
+"Tab" Função de alto completar
+
+"pwd" Mostra o caminho
+
+"mkdir" Cria uma pasta
+
+"mv" Remover
